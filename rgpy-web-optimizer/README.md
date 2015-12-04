@@ -12,11 +12,11 @@ csscompressor, jsmin, PyImageOptimiser, PIL (or Pillow)
     pip3 install jsmin
     pip3 install PyImageOptimiser
     
- Installing PIL for py3 on windows:
+Installing PIL for py3 on windows:
  * Downloads at http://www.lfd.uci.edu/~gohlke/pythonlibs/#pillow
  * pip3 install [path-to-whl-file]
  
- Notes on PyImageOptimiser:
+Notes on PyImageOptimiser:
  * Requires 'requests' module (pip3 install requests)
  * Has indentation errors. Easily fixed but annoying
 
