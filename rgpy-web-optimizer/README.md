@@ -1,5 +1,7 @@
 # rgpy-web-optimizer
 
+## Discontinued. Please use grunt or gulp.
+
 - Script that reads a directory recursively and optimizes javascript, css and image files. 
 - It optimizes and copies files and leaves the originals intact. 
 - Images are only processed when they haven't before or the file has changed (also see 'images_only_when_changed' option in config)
